@@ -22,7 +22,11 @@ The biography of the frog and the minds behind him
 
 # Intro
 
-“Ring ding ding bem bem,” have you ever heard these words while crossing the street? Maybe you heard it in the car or on the school bus, or you found it on YouTube. Either way that’s not important, what is important is that you have heard the Crazy Frog. Starting in the late 90s and becoming popular in the 2000’s with his ringtone,  this frog has spanned Decemberades with many original hits, cover songs, and games.
+“Ring ding ding bem bem,” have you ever heard these words while crossing the street? Maybe you heard it in the car or on the school bus, or you found it on YouTube. Either way that’s not important, what is important is that you have heard the Crazy Frog. Starting in the late 90s and becoming popular in the 2000’s with his ringtone,  this frog has spanned many decades with many original hits, cover songs, and games. Let's hop into the main figures in Crazy Frog's creation and how he was spawned.
+
+---
+# Daniel Malmedahl
+Daniel Malmedahl is the original voice actor of the Crazy Frog. He was born in 1980. In 1997, Daniel Malmedahl noticed that he could imitate a two-stroke engine sound. He and his friends found it very amusing and posted it online. His sound has  been spread throughout the internet through peer to peer file sharing,email, and word of mouth. The most popular use of his sound is of course Crazy Frog. (Wilson, 2005) According to last.fm, he is now 43 and works as computer component salesman in Gothenburg Sweden.  (last.fm, n.d.)
 
 ---
 <style scoped>
@@ -30,9 +34,8 @@ The biography of the frog and the minds behind him
   font-size: 1.3em
 }
 </style>
-# Humble Beginnings (pt. 1)
-
-It all started in 1997 when a 17-year-old kid named Daniel Malmedahl noticed that he could imitate a two-stroke engine sound. (Wilson, 2005) He and his friends found it very amusing and posted it online. In 2003, Erik Wernquist an animator at Kaktus Film in Sweden was emailed the humorous sound by a friend and inspired to base creation on it. In an interview with hitquarters.com, “I wanted to create a character that looked like he could sound like that sound…” He modeled and animated over 6 - 8 weeks creating the character we know now. The animation was paired with the aforementioned two-stroke engine sound. It was uploaded to cgitalk.com(a forum website focusing on 3d animation) forums under the name of the Annoying Thing. It instantly became highly popular on the forums and through peer-to-peer file-sharing programs. For a while that was it until 2004, someone at Jamba (a german ringtone company) contacted Erik Wernquist for the rights to use the Annoying Thing for ringtones in exchange for royalties(unknown amount). Quickly they also contacted Daniel Malmedahl — the 17-year-old kid who made the two-stroke engine sound from earlier — and also formed a deal with him.  (Blumentrath & Wernquist, 2005) Jamba rebranded the character as the Crazy Frog and sold the original two-stroke engine sound among a ringtone set with lots of marketing material to promote the entire ringtone set. Funnily, the marketing was so good it became obnoxious to viewers. According to Manchester News(2005), “[People] thought the [Crazy Frog] and his accompanying tune were on screen too often - or found it simply ‘annoying’.” 
+# Erik Wernquist
+Erik Wernquist is the original artist of Crazy Frog.He was born in 1977 and is currently 45. He is a digital artist based in Sweden. Little are known about how he became an artist or when he got hired to work at Katkus Film(the original animation studio for Crazy Frog). In 2003, Erik Wernquist — while working at Katkus Film— was emailed the humorous sound by a friend and was inspired to base creation on it. In an interview with hitquarters.com, “I wanted to create a character that looked like he could sound like that sound…” He modeled and animated over 6 - 8 weeks creating the character we know now. The animation was paired with the aforementioned two-stroke engine sound. It was uploaded to cgitalk.com(a forum website focusing on 3d animation) forums under the name of the Annoying Thing(later renamed to Crazy Frog). It instantly became highly popular on the forums and through peer-to-peer file-sharing programs. Later it got used by Jamba(more on this company later) for ringtones and songs. Jamba rebranded the Annoying Thing to Crazy Frog and  Katkus Film developed the animations for the Crazy Frog music videos. (Blumentrath & Wernquist, 2005)After quitting his job at Katkus Film(the time he left is undocumented) he became a freelance artist and writer. Some of his most notable works shown on IMDb are writing on the Grotesco Show, creating the Wanderers animated short film, and animating on Metropia, and Crazy Frog. (IMDb, n.d.)Some of his freelance work shown on his website includes working on the logo and some concept art for a made-up superhero Lynx for the Berts Bagdok movie, working on a Volvo XC40 Recharge ad, and making the NASA/JPL Short Film: "Cassini's Grand Finale". (Erik Wernquist, n.d.)
 
 ---
 <style scoped>
@@ -40,30 +43,25 @@ It all started in 1997 when a 17-year-old kid named Daniel Malmedahl noticed tha
   font-size: 1.3em
 }
 </style>
-# Humble Beginnings (pt. 2)
+# Jamba & Crazy Frog's Success (pt. 1)
+Jamba(known as Jamster in Europe) was founded in Berlin by the Samwer Brothers in 2000. (Crunchbase, n.d.)  They mainly focused on providing ringtones. But, they also provided Java games, shopping services, MMS greeting cards, and other products for mobile phones. (Jamster, 2005) In 2004 they were sold to Verisign for 273 million dollars. In the same year, they got permission for the use of Crazy Frog and used him for ringtones and other media. Jamba is not responsible for any of the art and they outsource the music. For a while, the Crazy Frog(known as the Annoying Thing at the time) was just a small little meme, until someone at Jamba during 2004 (a german ringtone company) contacted Erik Wernquist for permission to use the Annoying Thing in exchange for an unknown amount of royalties of the record sales. Quickly they also contacted Daniel Malmedahl — the 17-year-old kid who made the two-stroke engine sound from earlier — and got permission to sell the sound for an unknown amount of royalties for ringtones sold and sales of records using the sound.  (Blumentrath & Wernquist, 2005) Jamba rebranded the character as the Crazy Frog and sold the original two-stroke engine sound among a ringtone set with lots of marketing material to promote the entire ringtone set. Funnily, the marketing was so good it became obnoxious to viewers. According to Manchester News(2005), “[People] thought the [Crazy Frog] and his accompanying tune were on screen too often - or found it simply ‘annoying’.”
 
-Eventually the Crazy Frog character became so popular it was practically the face of cellphone ringtones. Due to the newfound popularity of the Crazy Frog character, executives at Jamba Decemberided to combine the most popular cell phone character with the most popular ringtone Axel F. In collaboration with Wolfgang Boss, Reinhard Raith and Henning Reith of the Bass Bumpers they created a remix of Axel F with the sounds of Daniel Malmedahl. They released the cover of Harold Faltermeyer’s Axel F on March 1, 2005. Instantly the song and music video accompanying it gained *add stats* Currently the Axel F video has *blabla views on youtube* Due to this enormous success the rightsholder*insert* Decemberided to create a slew of songs,games, and all sorts of media featuring the character.
+
+
+---
+<style scoped>
+{
+  font-size: 1.3em
+}
+</style>
+# Jamba & Crazy Frog's Success (pt. 2)
+
+Eventually the Crazy Frog character became so popular it was practically the face of cellphone ringtones. Due to the newfound popularity of the Crazy Frog character, executives at Jamba decided to create a cover of Axel F by Harold Faltermeyer with Crazy Frog. In collaboration with Wolfgang Boss, Reinhard Raith and Henning Reith of the Bass Bumpers they created a remix of Axel F with the Crazy Frog sounds of Daniel Malmedahl. They released the cover of Harold Faltermeyer’s Axel F on March 1, 2005. Instantly the song and music video accompanying it gained *add stats* Currently the Axel F video has *blabla views on youtube* Due to this enormous success Jamba decided to create a slew of songs, games, and all sorts of media featuring the character.
 
 ![width:auto height:auto saturate:3](lazy.png) <!-- Setting both lengths -->
 
 ---
-<style scoped>
-{
-  font-size: 1.3em
-}
-</style>
-# Albums
 
-Over the years the Crazy Frog has released many albums.
-Here is a brief list from Discogs.com
-
-- Crazy Frog Presents Crazy Hits - 2005 ![width:128 height:128](crazyhits.jpg)
-- Crazy Frog Presents Winter Hits- 2006 ![width:128 height:128](winterhits.jpg)
-- Crazy Frog Presents Winter Hits II- 2006 ![width:128 height:128](winterhits.jpg)
-- Crazy Frog Presents More Crazy Hits - 2006 ![width:128 height:128](winterhitsii.jpg)
-- Everybody Dance Now - 2009
-
----
 <style scoped>
 
 h1 {
@@ -153,3 +151,10 @@ section
 # Crazy Frog Live Performance at the Dome in Germany(info from: IMDB)
 ![bg](thedome.jpg)
 The Dome is a German music T.V show where they went to event halls and people paid tickets for it. In the 38th episode they collaborated with Crazy Frog and this is the result.
+
+---
+# TODO
+add reinhard raith and wolfgang boss biography
+and check if their is any more main musicians and ppl to make biographies on
+finish album and add all the dates
+reread and shit
