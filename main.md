@@ -17,6 +17,8 @@ backgroundColor: #99B3E5
 # **Crazy Frog**
 
 The biography of the frog and the minds behind him
+Credits: Skye A and Jil P
+Due Date: 3/31/23
 
 ---
 
@@ -158,3 +160,4 @@ add reinhard raith and wolfgang boss biography
 and check if their is any more main musicians and ppl to make biographies on
 finish album and add all the dates
 reread and shit
+add pictures to biography and jamba
