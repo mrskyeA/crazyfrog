@@ -40,6 +40,13 @@ Daniel Malmedahl is the original voice actor of the Crazy Frog. He was born in 1
 Erik Wernquist is the original artist of Crazy Frog.He was born in 1977 and is currently 45. He is a digital artist based in Sweden. Little are known about how he became an artist or when he got hired to work at Katkus Film(the original animation studio for Crazy Frog). In 2003, Erik Wernquist — while working at Katkus Film— was emailed the humorous sound by a friend and was inspired to base creation on it. In an interview with hitquarters.com, “I wanted to create a character that looked like he could sound like that sound…” He modeled and animated over 6 - 8 weeks creating the character we know now. The animation was paired with the aforementioned two-stroke engine sound. It was uploaded to cgitalk.com(a forum website focusing on 3d animation) forums under the name of the Annoying Thing(later renamed to Crazy Frog). It instantly became highly popular on the forums and through peer-to-peer file-sharing programs. Later it got used by Jamba(more on this company later) for ringtones and songs. Jamba rebranded the Annoying Thing to Crazy Frog and  Katkus Film developed the animations for the Crazy Frog music videos. (Blumentrath & Wernquist, 2005)After quitting his job at Katkus Film(the time he left is undocumented) he became a freelance artist and writer. Some of his most notable works shown on IMDb are writing on the Grotesco Show, creating the Wanderers animated short film, and animating on Metropia, and Crazy Frog. (IMDb, n.d.)Some of his freelance work shown on his website includes working on the logo and some concept art for a made-up superhero Lynx for the Berts Bagdok movie, working on a Volvo XC40 Recharge ad, and making the NASA/JPL Short Film: "Cassini's Grand Finale". (Erik Wernquist, n.d.)
 
 ---
+# Reinhard Raith (SKIP IN PEER EDIT)
+Reinhard Raith is one of the key producers on the Crazy Frog Albums. He has worked on some of Crazy Frog's most notable projects: Axel F, Crazy Frog in the House. (UltraTop, 2007 & 2005)  He is a part of the Bassbumpers music group in Ibiza, shareholder of Ministry Sound of Germany, and was a head of A&R record label. In his time as a producer in the Bassbumpers under pseudonym of DJ Voodoo he made many hits such as *insert hits* He started producing music  *finish this dude is unknown*
+
+---
+# Wolfgang Boss(SKIP NOT FINISHED)
+
+---
 <style scoped>
 {
   font-size: 1.3em
