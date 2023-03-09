@@ -24,28 +24,37 @@ Due Date: 3/31/23
 
 # Intro
 
-“Ring ding ding bem bem,” have you ever heard these words while crossing the street? Maybe you heard it in the car or on the school bus, or you found it on YouTube. Either way that’s not important, what is important is that you have heard the Crazy Frog. Starting in the late 90s and becoming popular in the 2000’s with his ringtone,  this frog has spanned many decades with many original hits, cover songs, and games. Let's hop into the main figures in Crazy Frog's creation and how he was spawned.
+“Ring ding ding bem bem,” have you ever heard these words while crossing the street? Maybe you heard it in the car or on the school bus, or you found it on YouTube. Either way that’s not important, what is important is that you have heard the Crazy Frog. Starting in the late 90s and becoming popular in the 2000’s with his ringtone,  this frog has spanned many decades with many original hits, cover songs, and games. Let's hop into the minds behind Crazy Frog and how he was created.
 
 ---
 # Daniel Malmedahl
+<style scoped>
+{
+  font-size: 1.8em
+}
+</style>
 Daniel Malmedahl is the original voice actor of the Crazy Frog. He was born in 1980. In 1997, Daniel Malmedahl noticed that he could imitate a two-stroke engine sound. He and his friends found it very amusing and posted it online. His sound has  been spread throughout the internet through peer to peer file sharing,email, and word of mouth. The most popular use of his sound is of course Crazy Frog. (Wilson, 2005) According to last.fm, he is now 43 and works as computer component salesman in Gothenburg Sweden.  (last.fm, n.d.)
 ![bg left:40% 80%](danielmalmedahl.jpg)
 
 ---
 <style scoped>
 {
-  font-size: 1.3em
+  font-size: 1em
 }
 </style>
 # Erik Wernquist
-Erik Wernquist is the original artist of Crazy Frog.He was born in 1977 and is currently 45. He is a digital artist based in Sweden. Little are known about how he became an artist or when he got hired to work at Katkus Film(the original animation studio for Crazy Frog). In 2003, Erik Wernquist — while working at Katkus Film— was emailed the humorous sound by a friend and was inspired to base creation on it. In an interview with hitquarters.com, “I wanted to create a character that looked like he could sound like that sound…” He modeled and animated over 6 - 8 weeks creating the character we know now. The animation was paired with the aforementioned two-stroke engine sound. It was uploaded to cgitalk.com(a forum website focusing on 3d animation) forums under the name of the Annoying Thing(later renamed to Crazy Frog). It instantly became highly popular on the forums and through peer-to-peer file-sharing programs. Later it got used by Jamba(more on this company later) for ringtones and songs. Jamba rebranded the Annoying Thing to Crazy Frog and  Katkus Film developed the animations for the Crazy Frog music videos. (Blumentrath & Wernquist, 2005)After quitting his job at Katkus Film(the time he left is undocumented) he became a freelance artist and writer. Some of his most notable works shown on IMDb are writing on the Grotesco Show, creating the Wanderers animated short film, and animating on Metropia, and Crazy Frog. (IMDb, n.d.)Some of his freelance work shown on his website includes working on the logo and some concept art for a made-up superhero Lynx for the Berts Bagdok movie, working on a Volvo XC40 Recharge ad, and making the NASA/JPL Short Film: "Cassini's Grand Finale". (Erik Wernquist, n.d.)
+Erik Wernquist is the original artist of Crazy Frog.He was born in 1977 and is currently 45. He is a digital artist based in Sweden. Little are known about how he became an artist or when he got hired to work at Katkus Film(the original animation studio for Crazy Frog). In 2003, Erik Wernquist — while working at Katkus Film— was emailed the humorous sound by a friend and was inspired to base a creation on it. In an interview with hitquarters.com he said, “I wanted to create a character that looked like he could sound like that sound…” He modeled and animated over 6 - 8 weeks creating the character we know now. The animation was paired with the aforementioned two-stroke engine sound. It was uploaded to cgtalk.com(a forum website focusing on 3d animation) forums under the name of the Annoying Thing(later renamed to Crazy Frog). It instantly became highly popular on the forums and through peer-to-peer file-sharing programs. Later it got used by Jamba(more on this company later) for ringtones and songs. Jamba rebranded the Annoying Thing to Crazy Frog and  Katkus Film developed the animations for the Crazy Frog music videos. (Blumentrath & Wernquist, 2005)After quitting his job at Katkus Film(the time he left is undocumented) he became a freelance artist and writer. Some of his most notable works shown on IMDb are writing on the Grotesco Show, creating the Wanderers animated short film, and animating on Metropia, and Crazy Frog. (IMDb, n.d.)Some of his freelance work shown on his website includes working on the logo and some concept art for a made-up superhero Lynx for the Berts Bagdok movie, working on a Volvo XC40 Recharge ad, and making the NASA/JPL Short Film: "Cassini's Grand Finale". (Erik Wernquist, n.d.)
 ![bg left:40% 80%](erikwernquist.png)
+
 ---
 # Reinhard Raith (SKIP IN PEER EDIT)
-Reinhard Raith is one of the key producers on the Crazy Frog Albums. He has worked on some of Crazy Frog's most notable projects: Axel F, Crazy Frog in the House. (UltraTop, 2007 & 2005)  He is a part of the Bassbumpers music group in Ibiza, shareholder of Ministry Sound of Germany, and was a head of A&R record label. In his time as a producer in the Bassbumpers under pseudonym of DJ Voodoo he made many hits such as *insert hits* He started producing music  *finish this dude is unknown*
+Reinhard Raith is one of the key producers on the Crazy Frog Albums. He has worked on some of Crazy Frog's most notable projects: Axel F, Crazy Frog in the House. (UltraTop, 2007 & 2005)  Additionally, he is a part of the Bassbumpers music group in Ibiza, shareholder of Ministry Sound of Germany, and was a head of A&R record label. In his time as a producer in the Bassbumpers under pseudonym of DJ Voodoo he made many hits such as *insert hits* He started producing music  *finish this dude is unknown*
 
 ---
 # Wolfgang Boss(SKIP NOT FINISHED)
+
+---
+# Henning Reith(SKIP NOT FINISHED)
 
 ---
 <style scoped>
@@ -54,8 +63,8 @@ Reinhard Raith is one of the key producers on the Crazy Frog Albums. He has work
 }
 </style>
 # Jamba & Crazy Frog's Success (pt. 1)
-![width:128 height:auto](jamba.png)
-Jamba(known as Jamster in Europe) was founded in Berlin by the Samwer Brothers in 2000. (Crunchbase, n.d.)  They mainly focused on providing ringtones. But, they also provided Java games, shopping services, MMS greeting cards, and other products for mobile phones. (Jamster, 2005) In 2004 they were sold to Verisign for 273 million dollars. In the same year, they got permission for the use of Crazy Frog and used him for ringtones and other media. Jamba is not responsible for any of the art and they outsource the music. For a while, the Crazy Frog(known as the Annoying Thing at the time) was just a small little meme, until someone at Jamba during 2004 (a german ringtone company) contacted Erik Wernquist for permission to use the Annoying Thing in exchange for an unknown amount of royalties of the record sales. Quickly they also contacted Daniel Malmedahl — the 17-year-old kid who made the two-stroke engine sound from earlier — and got permission to sell the sound for an unknown amount of royalties for ringtones sold and sales of records using the sound.  (Blumentrath & Wernquist, 2005) Jamba rebranded the character as the Crazy Frog and sold the original two-stroke engine sound among a ringtone set with lots of marketing material to promote the entire ringtone set. Funnily, the marketing was so good it became obnoxious to viewers. According to Manchester News(2005), “[People] thought the [Crazy Frog] and his accompanying tune were on screen too often - or found it simply ‘annoying’.”
+![width:96 height:auto](jamba.png)
+Jamba(known as Jamster in Europe) was founded in Berlin by the Samwer Brothers in 2000. (Crunchbase, n.d.)  They mainly focused on providing ringtones. But, they also provided Java games, shopping services, MMS greeting cards, and other products for mobile phones. (Jamster, 2005) In 2004 they were sold to Verisign for 273 million dollars. Jamba is not responsible for any of the art and they outsource the music. For a while, the Crazy Frog(known as the Annoying Thing at the time) was just a small little meme, until someone at Jamba during 2004 (a german ringtone company) contacted Erik Wernquist for permission to use the Annoying Thing in exchange for an unknown amount of royalties of the record sales. Quickly they also contacted Daniel Malmedahl — the 17-year-old kid who made the two-stroke engine sound from earlier — and got permission to sell the sound for an unknown amount of royalties for sales of ringtones and records using the sound.  (Blumentrath & Wernquist, 2005) Jamba rebranded the character as the Crazy Frog and sold the original two-stroke engine sound among a ringtone set with lots of marketing material to promote the entire ringtone set. Funnily, the marketing was so good it became obnoxious to viewers. According to Manchester News(2005), “[People] thought the [Crazy Frog] and his accompanying tune were on screen too often - or found it simply ‘annoying’.”
 
 
 
@@ -75,21 +84,18 @@ Eventually the Crazy Frog character became so popular it was practically the fac
 
 <style scoped>
 
-h1 {
-  color: white;
-  
-
+{
+  font-size: 1.3em
 }
-
 </style>
 # Albums
-![bg contain](crazyhits.jpg)
-![bg contain](winterhits.jpg)
-![bg contain](winterhitsii.jpg)
-![bg contain](morecrazyhits.jpg)
-![bg contain](everybodydancenow.jpg)
+<section>Crazy Frog Presents Crazy Hits(Release Date:2005,Total Sales:1,036,414) <img src="crazyhits.jpg" width="96" height="96"></section>
+<section>Crazy Frog Presents More Crazy Hits(Release Date:2005,Total Sales:) <img src="morecrazyhits.jpg" width="96" height="96"></section>
+<section>Crazy Frog Presents Winter Hits(Release Date:2006,Total Sales:) <img src="winterhits.jpg" width="96" height="96"></section>
+<section>Crazy Frog Presents Winter Hits II(Release Date:2006,Total Sales:)<img src="winterhitsii.jpg" width="96" height="96"></section>
+<section>Everybody Dance Now(Release Date:2009,Total Sales:)<img src="everybodydancenow.jpg" width="96" height="96"> </section>
 
-2005 2006 2006 2005 2009
+
 
 ---
 # Quotes from Crazy Frog and the minds behind him
@@ -97,7 +103,7 @@ h1 {
 - ```Wh-wha-what's going on-on? Ding, ding This is the Crazy Frog Ding, ding``` - Crazy Frog,2005 (from Axel F song)
 - ```The Crazy Frog sound? That's my fault.``` - Daniel Malmehdal, 2005(from BBC)
 - ```I just had fun doing it. I wanted to invent a funny thing. ``` - Erik Wernquist, 2005(from Hitquarters Interview)
-- ```One Year hard work !!! ``` - Reinhard Raith, 2022(from Facebook)
+- ```One Year hard work !!! ``` - Reinhard Raith, 2022(from Facebook)//change
 
 ---
 <style scoped>
@@ -147,9 +153,9 @@ Wednesday December 7 in Melbourne
 </style>
 # Why I like Crazy Frog?
 
-The sheer stupidity of the character is what intrigues me. Crazy Frog has his weenie doe out all the time and only makes noises. The concept and the history of the character makes me laugh. While researching for this project I found a page on Erik Wernquist's website featuring a extremely adult depiction of Crazy Frog. The reason I brought this up was because it's clear that Crazy Frog was originally meant to be a one-off adult gag joke by Erik Wernquist. But, instead Crazy Frog became a worldwide sensation targeting kids.
+The sheer stupidity of the character is what I mainly like about it. Crazy Frog has his weiner out all the time and only makes noises. Additionally the history and the original intentions for the character fascinates me. While researching for this project I found a page on Erik Wernquist's website featuring a extremely adult depiction of Crazy Frog. The reason I brought this up was because it's clear that Crazy Frog was originally meant to be a one-off adult gag joke by Erik Wernquist. But, instead Crazy Frog became a worldwide sensation targeting kids. That what makes the character so fascinating to me.
 
-It's clear Crazy Frog is a product of incredible luck. What are the odds that someone of Erik's talent would get sent that audio and Decemberide to create a professionalionally crafted model and animation for that. What are the odds one of the biggest ringtone companies would stumble across the silly animation test and offer a deal to the creators of it even if it is extremely risque. A company that was as big as Jamba would be extremely stupid to even consider putting a frog with a weenie doe on T.V but they did. Crazy Frog represents beating the odds to me. This is even better represented in his recent comeback. Nobody remembers Crazy Frog except me and probably two other people but he still came back for another round in spotlight. He hasn't achieved anywhere near his prior success but this is just the beginning. I believe in a couple years Crazy Frog will play at Rolling Loud among the greats with his weenie doe being the highlight of the night.
+Moreover, it's clear Crazy Frog is a product of incredible luck. What are the odds that someone of Erik's talent would get sent that audio and decide to create a professionalionally crafted model and animation for that. What are the even greater odds one of the biggest ringtone companies would stumble across the silly animation test and offer a deal to the creators of it even though it is extremely risque. A company that was as big as Jamba would be extremely stupid to even consider putting a frog with a weiner on T.V but they did. Crazy Frog represents beating the odds to me. This is even better represented in his recent comeback. Nobody remembers Crazy Frog except me and probably two other people but he still came back for another round in spotlight. He hasn't achieved anywhere near his prior success but this is just the beginning. I believe in a couple years Crazy Frog will play at Rolling Loud among the greats with his weiner being the highlight of the night. In short, Crazy Frog is a symbol of beating the odds, never giving up, and having fun.
 
 ---
 <style scoped>
