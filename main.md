@@ -47,16 +47,15 @@ Erik Wernquist is the original artist of Crazy Frog.He was born in 1977 and is c
 ![bg left:40% 80%](erikwernquist.png)
 
 ---
-# Reinhard Raith (SKIP IN PEER EDIT)
-Reinhard Raith is one of the key producers on the Crazy Frog Albums. He has worked on some of Crazy Frog's most notable projects: Axel F, Crazy Frog in the House. (UltraTop, 2007 & 2005)  Additionally, he is a part of the Bassbumpers music group in Ibiza, shareholder of Ministry Sound of Germany, and was a head of A&R record label. In his time as a producer in the Bassbumpers under pseudonym of DJ Voodoo he made many hits such as *insert hits* He started producing music  *finish this dude is unknown*
+# Reinhard Raith (SKIP IN PEER EDIT) // ceck if u copied wikipedia
+Reinhard Raith was born in 1971 and is currently 52 according to his Facebook. He is mainly a producer but does some song-writing and runs artist booking/event agencies. Not much is known about his life before he joined the Bass Bumpers Studio(located in Ibiza) in 2003. In his time at the Bass Bumpers he worked on many projects. In 2004 he collaborated with Jamba to make the Axel F song.This started a life-long relationship with Crazy Frog. He has worked on every notable Crazy Frog project. Later on in 2008 after working on Crazy Frog and many other less notable projects, he had his second biggest project in his career. In this year he collaborated with Shaggy on his Feel the Rush song. In 2012, he reached similar stardom by working on Oceana’s album Endless Summer. On the project he served as producer and writer, demonstrating that he’s more than just a producer.  Sometime in his career he became a manager at the A&R record label(*insertyear if not just put unknown*). Alongside that he is also a shareholder of Ministry of Sound in Germany. Now he taken a step down and is relaxing at his job in Riverside Studios.Additionally, in *insert year*he has created two artist booking and event agencies in Berlin. (Riverside Studios, 2023;Discogs, 2023) 
 
 ---
-# Wolfgang Boss(SKIP NOT FINISHED)
+# Wolfgang Boss(make his role in the frog more clear in the essay)
+Just like Reinhard Raith not much can be found on Wolfgang Boss’s early history atleast on the English-speaking web. Wolfgang Boss started making decent amounts of money after producing the song for World Cup Mascot Goleo and working on Crazy Frog. (Heller, 2011) He first found Crazy Frog through the Jamba ringtones. One day he looks at a cellphone ringtone chart and sees Axel F at number one. With the help of  Jamba, Henning Reith, and Reinhard Raith he produces a Crazy Frogified Axel F. Jamba picks up the song and works with Erik Wernquist alongside Kaktkus Films and the rest is history. He didn’t stop working on Crazy Frog and up to this day he still is a part of the project.(Knack, 2021) Outside of Crazy Frog, he is actually a really impressive man. He has described himself as a guy who finds music and markets it. For instance, he has worked on marketing the famous Somewhere over the Rainbow song by the now-diseased Israel Kamakawiwoʻole. (Heller, 2011) One of the biggest collaborations in his career was with Universal Music Germany GmbH where they co-ventured a record called B1M1 recordings. It started in 2007 and the aforementioned Somewhere over the Rainbow song was released under it. The label has released many successful songs from outside of Germany in Germany and the rest of Europe. Some of the artists the label has worked with is Crazy Frog, Lumidee, Aventura, Israel Kamakawiwoʻole, and even Pitbull. Overall the label has released over 50 platinum and gold records most of which in Germany and is still active.(B1m1 Recordings, 2013) In 2013 Wolfgang Boss and his label B1 signed to Sony Music making him the A&R Executive President of Sony Music.(Sony Music Bestätigt Vertrag Mit Wolfgang Boss, 2014)
 
 ---
-# Henning Reith(SKIP NOT FINISHED)
 
----
 <style scoped>
 {
   font-size: 1.3em
@@ -76,7 +75,7 @@ Jamba(known as Jamster in Europe) was founded in Berlin by the Samwer Brothers i
 </style>
 # Jamba & Crazy Frog's Success (pt. 2)
 
-Eventually the Crazy Frog character became so popular it was practically the face of cellphone ringtones. Due to the newfound popularity of the Crazy Frog character, executives at Jamba decided to create a cover of Axel F by Harold Faltermeyer with Crazy Frog. In collaboration with Wolfgang Boss, Reinhard Raith and Henning Reith of the Bass Bumpers they created a remix of Axel F with the Crazy Frog sounds of Daniel Malmedahl. They released the cover of Harold Faltermeyer’s Axel F on March 1, 2005. Instantly the song and music video accompanying it gained *add stats* Currently the Axel F video has *blabla views on youtube* Due to this enormous success Jamba decided to create a slew of songs, games, and all sorts of media featuring the character.
+Eventually the Crazy Frog character became so popular it was practically the face of cellphone ringtones. Due to the newfound popularity of the Crazy Frog character, executives at Jamba decided to create a cover of Axel F by Harold Faltermeyer with Crazy Frog. In collaboration with Wolfgang Boss, Reinhard Raith and Henning Reith of the Bass Bumpers they created a remix of Axel F with the Crazy Frog sounds of Daniel Malmedahl. They released the cover of Harold Faltermeyer’s Axel F on March 1, 2005. Instantly the song and music video accompanying it gained *add stats/ change to a easier thing to express the success* Currently the Axel F video has *blabla views on youtube* Due to this enormous success Jamba decided to create a slew of songs, games, and all sorts of media featuring the character.
 
 ![width:auto height:auto saturate:3](lazy.png) <!-- Setting both lengths -->
 
@@ -88,12 +87,12 @@ Eventually the Crazy Frog character became so popular it was practically the fac
   font-size: 1.3em
 }
 </style>
-# Albums
-<section>Crazy Frog Presents Crazy Hits(Release Date:2005,Total Sales:1,036,414) <img src="crazyhits.jpg" width="96" height="96"></section>
-<section>Crazy Frog Presents More Crazy Hits(Release Date:2005,Total Sales:) <img src="morecrazyhits.jpg" width="96" height="96"></section>
-<section>Crazy Frog Presents Winter Hits(Release Date:2006,Total Sales:) <img src="winterhits.jpg" width="96" height="96"></section>
-<section>Crazy Frog Presents Winter Hits II(Release Date:2006,Total Sales:)<img src="winterhitsii.jpg" width="96" height="96"></section>
-<section>Everybody Dance Now(Release Date:2009,Total Sales:)<img src="everybodydancenow.jpg" width="96" height="96"> </section>
+# Albums(Dates from Discogs.com)
+<section>Crazy Frog Presents Crazy Hits(Release Date:July 25, 2005;Total Sales:1,036,414) <img src="crazyhits.jpg" width="96" height="96"></section>
+<section>Crazy Frog Presents More Crazy Hits(Release Date:June 26, 2006;Total Sales:) <img src="morecrazyhits.jpg" width="96" height="96"></section>
+<section>Crazy Frog Presents Crazy Winter Hits(Release Date:2006;Total Sales:) <img src="winterhits.jpg" width="96" height="96"></section>
+<section>Crazy Frog Presents Crazy Winter Hits II(Release Date:2006;Total Sales:)<img src="winterhitsii.jpg" width="96" height="96"></section>
+<section>Everybody Dance Now(Release Date:August 25,2009;Total Sales:)<img src="everybodydancenow.jpg" width="96" height="96"> </section>
 
 
 
@@ -177,9 +176,7 @@ The Dome is a German music T.V show where they went to event halls and people pa
 
 ---
 # TODO
-add reinhard raith and wolfgang boss biography
-add henning raith
-and check if their is any more main musicians and ppl to make biographies on
+add reinhard raith and wolfgang boss biography--done
 finish album and add all the dates
 reread and shit
 add pictures to biography and jamba--done
